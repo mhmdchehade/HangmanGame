@@ -27,7 +27,7 @@ pip install pygame
 Then just run:
 
 ```
-python hangman.py
+python main.py
 ```
 
 That's it. No setup, no config files, nothing complicated.
